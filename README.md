@@ -1,5 +1,8 @@
 ## Conhecendo kartódromos - Imerção Dev com Google Gemini
 
+## Veja a aplicação funcionando aqui 👇🏻
+https://eipiloto-kartodromos.vercel.app/
+
 ## EiPiloto: Seu Guia para os Melhores Kartódromos! 
 
 **O que é o EiPiloto?**
