@@ -11,6 +11,7 @@ let dados = [
     },
     {
         titulo : "Kartódromo de Atibaia",
+        site : "https://www.instagram.com/kartodromoatibaia?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
         descricao : "O Kartódromo de Atibaia é um dos destinos mais procurados para quem busca emoção e aventura em São Paulo. Localizado em uma área estratégica, às margens da Rodovia Fernão Dias, o kartódromo oferece uma pista desafiadora e completa, perfeita principalmente para pilotos iniciantes. Além disso é de facil localização para os que o buscam, e tem um ótimo custo benefício.",
         valores : "R$ 130,00",
         positivo : "É um pouco mais barato que seus concorrentes e a pista é de facil aprendizagem para iniciante.",
@@ -20,6 +21,7 @@ let dados = [
     },
     {
         titulo : "Kartódromo Internacional de Nova Odessa",
+        site : "https://kartodromonovaodessa.com.br/?gad_source=1&gclid=Cj0KCQjw8--2BhCHARIsAF_w1gzZaDjw-6GrUbbMrvjaJjOfrGcDkHE1pQMK-qb3AXPAlct1v6K-eTsaAh_xEALw_wcB",
         descricao : "O Kartódromo Internacional de Nova Odessa é um verdadeiro paraíso para os amantes da velocidade. Localizado em Nova Odessa, interior de São Paulo, este kartódromo se destaca por ser a maior pista de kart do Brasil, com mais de 2.700 metros de extensão. Com inúmeros traçados possíveis o kartódromo se torna desafiador por uma particularidade: A pista é inclinada. Então, você enfranta trechos de descida, reto e de subida, fazendo com que a estratégia que você vai utilizar em sua corrida seja um ponto importantíssimo para definir o seu resultado final.",
         valores : "R$ 165,00",
         positivo : "A pista é muito desafiadora e traz uma experiencia a parte para pilotos de alta performance.",
@@ -29,6 +31,7 @@ let dados = [
     },
     {
         titulo : "Kartódromo San Marino",
+        site : "https://sanmarinokart.com.br/",
         descricao : "O Kartódromo Internacional de San Marino, localizado em Paulínia (SP), é um paraíso para os amantes da velocidade. Com uma pista plana mas muito desafiadora, e com muitos traçados possíveis, você vai se destacar pela sua precisão ao fazer as curvas. Qualquer erro de traçado pode fazer com que pilotos mais experientes percam décimos de segundos preciosos em suas voltas, o que aumenta muito o grau de dificuldade deste kartódromo. Mas o kartódromo também oferece uma experiência única e emocionante entusiastas que querem conhecer o esporte, o San Marino proporciona adrenalina pura e momentos inesquecíveis.",
         valores : "R$ 165,00",
         positivo : "A pista é muito desafiadora e o asfalto é muito bem preservado. Além de possuir karts muito potentes e equilibrados",
@@ -38,6 +41,7 @@ let dados = [
     },
     {
         titulo : "Kartódromo Interlagos",
+        site : "https://www.instagram.com/kartodromodeinterlagos/",
         descricao : "O Kartódromo Ayrton Senna, localizado no complexo do Autódromo de Interlagos, é um marco histórico do automobilismo brasileiro. Inaugurado em 1970, este circuito viu nascer e se desenvolver alguns dos maiores pilotos do país, como por exemplo Rubens Barrichello. Com uma pista desafiadora e rica em tradição, o kartódromo é um verdadeiro berço de talentos e um ponto de encontro para amantes da velocidade.",
         valores : "R$ 155,00",
         positivo : "A pista é boa e muito desafiadora. Além disso, está bem localizado em São Paulo, sendo de fácil acesso para quem quer conhecer.",
@@ -47,6 +51,7 @@ let dados = [
     },
     {
         titulo : "Kartódromo Speedland",
+        site : "https://speedland.com.br/",
         descricao : "Localizado em uma área estratégica de São Paulo, o Speedland é facilmente acessível por transporte público e carro. O kartódromo realiza diversos eventos e campeonatos ao longo do ano, como aniversários, confraternizações e competições profissionais. Além disso, o local oferece pacotes especiais para grupos e empresas.",
         valores : "R$ 145,00",
         positivo : "A pista é bem localizada em São paulo, e o kartódromo oferece uma boa infraestrutura para eventos fechados.",
