@@ -15,6 +15,7 @@ https://eipiloto-kartodromos.vercel.app/
 2. **Resultados personalizáveis:** A busca é feita em diversos campos, como nome, descrição e tags, para te mostrar os resultados mais relevantes.
 3. **Informações completas:** Cada resultado te mostra o nome do kartódromo, uma breve descrição, valores das baterias, pontos positivos e negativos, e até um link para você assistir uma volta rápida!
 4. **Fácil de usar:** A interface é intuitiva e te permite encontrar o que precisa rapidamente.
+5. **Redirecionamento para o site do Kartódromo:** Ao clicar no nome do Kartódromo você será redirecionado para o site/página do Kartódromo.
 
 **Tecnologias utilizadas:**
 
