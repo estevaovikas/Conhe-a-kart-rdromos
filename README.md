@@ -5,9 +5,9 @@ https://eipiloto-kartodromos.vercel.app/
 
 ## EiPiloto: Seu Guia para os Melhores Kartódromos! 
 
-**O que é o EiPiloto?**
+**O que é o EiPiloto Kartódromos?**
 
-É um buscador simples e divertido para você encontrar o kartódromo perfeito para a sua próxima aventura! ️
+É um buscador simples e divertido para você encontrar o kartódromo perfeito para a sua próxima aventura no automobilismo amador! Você vai poder saber mais sobre os kartódromos e inclusive assistir à voltas rápidas para conhecer a pista antes de ir!
 
 **Como funciona?**
 
